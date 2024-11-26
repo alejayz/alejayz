@@ -1,4 +1,13 @@
-## Hi there 👋
+## ¡Holaaa a todos! 
+## Mi nombre es Alejandra Arenas 
+
+**Sobre mí...**
+
+Desde el año 2023 estoy estudiando Ingeniería Industrial en la **Universidad Nacional de Colombia** sede Bogotá.
+He tenido la oportunidad de aprender un poco sobre **Python** y también de aprender 
+
+
+
 
 <!--
 **alejayz/alejayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
