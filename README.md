@@ -3,9 +3,11 @@
 
 **Sobre mí...**
 
-Desde el año 2023 estoy estudiando Ingeniería Industrial en la **Universidad Nacional de Colombia** sede Bogotá.
-He tenido la oportunidad de aprender un poco sobre **Python** y también de aprender 
+Actualmente estoy cursando tercer semestre de Ingeniería Industrial en la **Universidad Nacional de Colombia** sede Bogotá.
 
+He tenido la oportunidad de aprender un poco sobre **Python** y también de aprender a crear repositorios en Github.
+
+En cuanto a mis propósitos con la programación, quiero aprender a programar en distintos lenguajes de programación como Python, JavaScript y SQL
 
 
 
