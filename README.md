@@ -1,13 +1,16 @@
-## ¡Holaaa a todos! 
+## ¡Holaaa a todos! :wave: 
 ## Mi nombre es Alejandra Arenas 
 
 **Sobre mí...**
 
-Actualmente estoy cursando tercer semestre de Ingeniería Industrial en la **Universidad Nacional de Colombia** sede Bogotá.
+:books: Actualmente estoy cursando tercer semestre de Ingeniería Industrial en la **Universidad 
+Nacional de Colombia** sede Bogotá.
 
-He tenido la oportunidad de aprender un poco sobre **Python** y también de aprender a crear repositorios en Github.
+:white_check_mark: He participado y colaborado en diferentes voluntariados, estoy aprendiendo inglés y también quisiera aprender portugués y francés
 
-En cuanto a mis propósitos con la programación, quiero aprender a programar en distintos lenguajes de programación como Python, JavaScript y SQL
+:computer: Con respecto a lenguajes de programación, he tenido la oportunidad de aprender un poco sobre **Python**
+
+:sparkles: En cuanto a mis propósitos con la programación, quiero seguir mejorando en Python y aprender a programar en otros lenguajes de programación como JavaScript y SQL
 
 
 
